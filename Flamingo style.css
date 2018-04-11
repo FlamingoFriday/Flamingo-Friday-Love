@@ -1,0 +1,53 @@
+body{
+	background-color:#f2f2f1;
+	color: gray(85);
+	font-family: "Lucida Console", sans-serif	font-size:12px;
+	line height:1.2em;
+	margin:0;
+}
+
+.container{
+	width:70%;
+	margin:auto;
+	overflow:hidden;
+}
+
+#main-header{
+	background-color:#ffb2ab;
+	color:#fff;
+	font-size:18px;
+}
+
+#navbar ul{
+	padding:0;
+	list-style-type: none;
+	list-style-image: none;
+}
+
+#navbar li{
+	display:inline;
+}
+
+#navbar a{
+	color:#555;
+	text-decoration:none;
+	font-size:18px;
+	padding-left:18px;
+}
+
+#showcase{
+	background-image:url(file:///Users/ieva/Desktop/CSS/Flamingo%20Friday%20Love/images/fl.jpg);
+	background-position:center center;
+	min-height:200px;
+	background-repeat:no-repeat;
+	margin-bottom:30px;
+	text-align:left;	
+}
+
+#showcase h1{
+	font-size:40px;
+	line-height:1.6em;
+	padding-top:20px;
+}
+
+
